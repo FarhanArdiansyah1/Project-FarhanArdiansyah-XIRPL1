@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-package classes;
-public class Ramen extends Menu{
-	public Ramen(String nama_ramen, double harga) {}
-=======
 package classes;
 public class Ramen extends Menu{
 	public Ramen(String nama_ramen, double harga) {
@@ -10,5 +5,4 @@ public class Ramen extends Menu{
             setHarga(harga);
             setKategori("Ramen");
         }
->>>>>>> 8dd5cb0 (implementasi kelas modul C)
 }

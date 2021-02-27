@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-package classes;
-import java.util.ArrayList;
-public class DaftarMenu{
-	private ArrayList<Menu> daftarMenu;
-	public DaftarMenu() {}
-	public void tambahMenu(Menu menu) {}
-	public void getMenuByKategori(String kategori) {}
-	public void tampilDaftarMenu() {}
-=======
 package classes;
 import java.util.ArrayList;
 public class DaftarMenu{
@@ -34,5 +24,4 @@ public class DaftarMenu{
             getMenuByKategori("Toping");
             getMenuByKategori("Minuman");
         }
->>>>>>> 8dd5cb0 (implementasi kelas modul C)
 }
